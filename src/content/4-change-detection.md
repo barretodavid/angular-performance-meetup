@@ -40,34 +40,34 @@ export class WorkshopComponent {
 }
 ```
 
-[View Example](https://plnkr.co/edit/?p=preview)
+[View Example](https://plnkr.co/edit/7L7i3tUK3Iuy9IXtBEmO?p=preview)
 
 ---
 
 ## Example: The Component Tree
 
 ![Lazy Loading](content/images/component-tree.svg)
-<!-- .element: style="width: 1000px" -->
+<!-- .element: class="large" -->
 
 ---
 
 ## Default Change Detection
 
 ![Lazy Loading](content/images/default-change-detection-1.svg)
-<!-- .element: style="width: 1000px" -->
+<!-- .element: class="large" -->
 
 ![Lazy Loading](content/images/default-change-detection-2.svg)
-<!-- .element: style="width: 1000px" -->
+<!-- .element: class="large" -->
 
 ---
 
 ## OnPush Change Detection
 
 ![Lazy Loading](content/images/default-change-detection-1.svg)
-<!-- .element: style="width: 1000px" -->
+<!-- .element: class="large" -->
 
 ![Lazy Loading](content/images/onpush-change-detection.svg)
-<!-- .element: style="width: 1000px" -->
+<!-- .element: class="large" -->
 
 ---
 

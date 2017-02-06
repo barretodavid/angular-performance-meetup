@@ -17,6 +17,6 @@
 
 ---
 
-## Slides
+# Thank You
 
-[https://github.com/rangle/angular-performance-meetup](https://github.com/rangle/angular-performance-meetup)
+Slides: [slideshare.net/barretollano/angular-optimization-web-performance-meetup](http://www.slideshare.net/barretollano/angular-optimization-web-performance-meetup)

@@ -146,4 +146,25 @@ $selectionColor: #fff;
   .progress span {
     background: $rangleRed;
   }
+
+  .large {
+    width: 900px;
+  }
+
+  .small {
+    width: 350px;
+  }
+
+  .x-small {
+    width: 200px;
+  }
+
+  .clear {
+    clear: both;
+  }
+
+  .float-left {
+    float: left;
+    margin-right: 20px;
+  }
 }

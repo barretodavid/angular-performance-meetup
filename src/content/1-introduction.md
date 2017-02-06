@@ -6,9 +6,26 @@
 
 # Speakers
 
-David Barreto
+<div>
 
-Andrew Smith
+![David Barreto](content/images/rangle-wiki-david.jpg)
+<!-- .element: class="float-left x-small" -->
+
+<p>David Barreto</p>
+<p>Solutions Architect @ Rangle.io</p>
+<p>Blog: [david-barreto.com](http://david-barreto.com)</p>
+
+</div>
+
+<div class="clear">
+
+![Andrew Smith](content/images/rangle-wiki-andrew.jpg)
+<!-- .element: class="float-left x-small" -->
+
+<p>Andrew Smith</p>
+<p>Solutions Architect @ Rangle.io</p>
+
+</div>
 
 ---
 
@@ -25,7 +42,7 @@ Andrew Smith
 ## Rangle Academy
 
 ![Lazy Loading](content/images/app-screen-shot.png)
-<!-- .element: style="width: 350px; float: left; margin-right: 20px;" -->
+<!-- .element: class="float-left small" -->
 
 Goal and Structure:
 
@@ -62,11 +79,11 @@ Characteristics:
 
 - Tachyons for CSS
 
-- Server side rendering with Universal
+- Server side rendering with Angular Universal
 
 All the numbers shown are based on:
 
-- Low end device emulation (5x slowdown)
+- Low end device (5x CPU slowdown)
 
-- Good 3G connection emulation
+- Good 3G connection (Latency: 40ms, DL: 1.5 Mbps, UL: 750 Kbps)
 
